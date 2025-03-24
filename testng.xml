@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GoogleSearchSuite">
+    <test name="GoogleSearchTest">
+        <classes>
+            <class name="AllureReportingDemo" />
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg" />
+    </listeners>
+
+</suite>
