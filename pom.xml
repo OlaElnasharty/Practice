@@ -91,7 +91,7 @@
         <profile>
             <id>runSampleTests</id>
             <properties>
-                <GLOBAL_TESTING_SCOPE>searchGoogle</GLOBAL_TESTING_SCOPE>
+                <GLOBAL_TESTING_SCOPE>AllureReportingDemo</GLOBAL_TESTING_SCOPE>
             </properties>
         </profile>
     </profiles>

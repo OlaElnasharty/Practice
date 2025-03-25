@@ -12,7 +12,7 @@ import static org.testng.Assert.assertTrue;
 @Epic("Allure Reporting Demo -> Test Google home page")
 public class AllureReportingDemo {
 	WebDriver driver;
-
+/// /////
 	@BeforeTest
 	@Step("Initializing the browser and navigating to Google Home Page")
 	public void setup() {

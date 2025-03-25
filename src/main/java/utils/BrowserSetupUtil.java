@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 
 import java.net.URL;
 import java.util.logging.Logger;
-
+/////////utility classs
 public class BrowserSetupUtil {
 
     private static final Logger logger = Logger.getLogger(BrowserSetupUtil.class.getName());
